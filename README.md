@@ -12,4 +12,3 @@ pyinstaller --windowed --onefile --icon=logo.ico YouDownloader.py
 - Paste with **crtl+v** the link of Youtube and select audio or video.
 - Click **Download** to download file
 - The file come be saved in the same folder of **.exe**
-- Export documents as Markdown, HTML and PDF
